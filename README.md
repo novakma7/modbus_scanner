@@ -5,3 +5,5 @@ Those scripts can scan the RS485 bus on selected COM port. They return the conte
 Script:
 scan_modbus_RTU.py     includes all pymodbus debug output
 scan_modbus_RTU_2.py   only reports the registers
+
+pymodbus has to installed. If not run pip install pymodbus
